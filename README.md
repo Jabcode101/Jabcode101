@@ -14,7 +14,7 @@ This GitHub showcases some of that work and documents my continued growth in cyb
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (MySQL threat hunt)](https://github.com/Jabcode101/Threat-Hunting-Scenario-MySQL-Database-Compromise/tree/main)**
 
 <hr/>
 
